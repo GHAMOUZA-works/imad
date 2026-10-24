@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ambom>
+    <FileName>file.xml</FileName>
+    <MAVer>5.2.0.0</MAVer>
+    <WorkSpaceId>0</WorkSpaceId>
+    <DmsId>1234</DmsId>
+    <assemblies>
+        <assembly>
+            <RefId>{43CC0EDE-962B-3DAB-9DF1-2C1A55DA815F}</RefId>
+            <Name>Autodesk AutoCAD 2023 - English</Name>
+            <UnitType>PRD - Product</UnitType>
+            <Description>Autodesk AutoCAD 2023 - English</Description>
+            <Upi2>{73A78CE1-E03A-3415-826E-91A699E39B17}</Upi2>
+            <BuildDate>01/31/2022 10:22:41 PM</BuildDate>
+            <BuildNumber>24.2.53.0</BuildNumber>
+            <ProductLine>ACD</ProductLine>
+            <Version>2023</Version>
+            <SubRelease>0</SubRelease>
+            <Platform>WIN64 - Windows 64-bit</Platform>
+            <Language>en-US - English - United States</Language>
+            <assemblies>
+                <assembly>
+                    <RefId>{A540961A-A9A2-31AD-B457-8D09D2F0144E}</RefId>
+                    <Name>AutoCAD 2023 - English</Name>
+                    <UnitType>APP - Application</UnitType>
+                    <Description>AutoCAD 2023 - English</Description>
+                    <Upi2>{2BEF1B4E-E373-400D-A88A-2FF942CCE51B}</Upi2>
+                    <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                    <BuildNumber>24.2.53.0</BuildNumber>
+                    <ProductLine>ACD</ProductLine>
+                    <Version>2023</Version>
+                    <SubRelease>0</SubRelease>
+                    <Platform>WIN64 - Windows 64-bit</Platform>
+                    <Language>en-US - English - United States</Language>
+                    <assemblies>
+                        <assembly>
+                            <RefId>{9263C190-D53F-3848-AD95-FE5825C3CE18}</RefId>
+                            <Name>ACAD Private</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>ACAD Private</Description>
+                            <Upi2>{B6684472-E058-495A-8654-007B6BB0DA41}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>24.2.53.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>2023</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                            <assemblies>
+<assembly>
+    <RefId>{D45B0D1D-AA73-3C7F-A725-FE85C7E1B788}</RefId>
+    <Name>AutoCAD 2023</Name>
+    <UnitType>COM - Component</UnitType>
+    <Description>AutoCAD 2023</Description>
+    <Upi2>{19D3B984-2235-3502-B419-4D91718C93E1}</Upi2>
+    <BuildDate>01/31/2022 10:22:39 PM</BuildDate>
+    <BuildNumber>24.2.53.0</BuildNumber>
+    <ProductLine>ACD</ProductLine>
+    <Version>2023</Version>
+    <SubRelease>0</SubRelease>
+    <Platform>WIN64 - Windows 64-bit</Platform>
+    <Language>NA - Language Independent</Language>
+</assembly>
+<assembly>
+    <RefId>{DD3C8B5A-B7F8-33B4-8DC2-691971069502}</RefId>
+    <Name>AutoCAD 2023 Shared</Name>
+    <UnitType>COM - Component</UnitType>
+    <Description>AutoCAD 2023 Shared</Description>
+    <Upi2>{C50ACB5F-0533-497C-8B92-1A71BAD83A1E}</Upi2>
+    <BuildDate>01/31/2022 10:22:39 PM</BuildDate>
+    <BuildNumber>24.2.53.0</BuildNumber>
+    <ProductLine>ACD</ProductLine>
+    <Version>2023</Version>
+    <SubRelease>0</SubRelease>
+    <Platform>WIN64 - Windows 64-bit</Platform>
+    <Language>NA - Language Independent</Language>
+</assembly>
+<assembly>
+    <RefId>{0A65BD91-E3EC-3C91-A263-CBA4690D28DF}</RefId>
+    <Name>Autodesk Single Sign On Component</Name>
+    <UnitType>COM - Component</UnitType>
+    <Description>Autodesk Single Sign On Component</Description>
+    <Upi2>{75640BDA-F1C6-48C8-88A1-61101255BC59}</Upi2>
+    <BuildDate>01/31/2022 10:22:39 PM</BuildDate>
+    <BuildNumber>13.3.3.1803</BuildNumber>
+    <ProductLine>ADSSO</ProductLine>
+    <Version>2020</Version>
+    <SubRelease>0</SubRelease>
+    <Platform>WIN64 - Windows 64-bit</Platform>
+    <Language>en-US - English - United States</Language>
+</assembly>
+<assembly>
+    <RefId>{7790FC49-E1AB-3579-ABDA-D85B9AD78B21}</RefId>
+    <Name>Autodesk Material Library Base Resolution Image Library 2023</Name>
+    <UnitType>COM - Component</UnitType>
+    <Description>Autodesk Material Library Base Resolution Image Library 2023</Description>
+    <Upi2>{83327DFA-AE3D-4958-8A5A-78ECCD945790}</Upi2>
+    <BuildDate>01/31/2022 10:22:39 PM</BuildDate>
+    <BuildNumber>21.0.1.1</BuildNumber>
+    <ProductLine>PLC0000014</ProductLine>
+    <Version>2023</Version>
+    <SubRelease>0</SubRelease>
+    <Platform>WIN64 - Windows 64-bit</Platform>
+    <Language>cs - Czech,de - German,en-US - English - United States,es - Spanish,fr - French,it - Italian,ja - Japanese,ko - Korean,pl - Polish,pt-BR - Portuguese - Brazilian,ru - Russian,zh-Hans - Simplified Chinese,zh-Hant - Traditional Chinese</Language>
+    <assemblies>
+        <assembly>
+            <RefId>{7858AA09-6DA1-3269-A216-68183108BB21}</RefId>
+            <Name>Autodesk Material Library 2023</Name>
+            <UnitType>COM - Component</UnitType>
+            <Description>Autodesk Material Library 2023</Description>
+            <Upi2>{41182B75-5993-47B5-AEA4-788055886D46}</Upi2>
+            <BuildDate>01/31/2022 10:22:39 PM</BuildDate>
+            <BuildNumber>21.0.1.1</BuildNumber>
+            <ProductLine>PLC0000013</ProductLine>
+            <Version>2023</Version>
+            <SubRelease>0</SubRelease>
+            <Platform>WIN64 - Windows 64-bit</Platform>
+            <Language>cs - Czech,de - German,en-US - English - United States,es - Spanish,fr - French,it - Italian,ja - Japanese,ko - Korean,pl - Polish,pt-BR - Portuguese - Brazilian,ru - Russian,zh-Hans - Simplified Chinese,zh-Hant - Traditional Chinese</Language>
+        </assembly>
+    </assemblies>
+</assembly>
+<assembly>
+    <RefId>{F1AEDBBB-DA32-3AB0-A4B7-07D351C9BAF6}</RefId>
+    <Name>Autodesk Licensing Installer 1.0</Name>
+    <UnitType>COM - Component</UnitType>
+    <Description>Autodesk Licensing Installer 1.0</Description>
+    <Upi2>{F842FD79-D263-3461-BBCA-C2FF7ECF2D33}</Upi2>
+    <BuildDate>01/31/2022 10:22:39 PM</BuildDate>
+    <BuildNumber>12.0.0.6529</BuildNumber>
+    <ProductLine>PLC0000036</ProductLine>
+    <Version>1.0</Version>
+    <SubRelease>0</SubRelease>
+    <Platform>WIN64 - Windows 64-bit</Platform>
+    <Language>NA - Language Independent</Language>
+</assembly>
+                            </assemblies>
+                        </assembly>
+                        <assembly>
+                            <RefId>{D5B55C6E-CA68-3571-B316-12424209C844}</RefId>
+                            <Name>Autodesk AutoCAD 2023 - English</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk AutoCAD 2023 - English</Description>
+                            <Upi2>{135891D2-0CBF-30BA-87C9-927A6E995C46}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>24.2.53.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>2023</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>en-US - English - United States</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{45986A85-07E7-3110-877C-6F76F37655D8}</RefId>
+                            <Name>AutoCAD 2023 Shared Language Pack - English</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>AutoCAD 2023 Shared Language Pack - English</Description>
+                            <Upi2>{E5E6D80A-CCA3-40EE-9E4A-0241B4A35ADE}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>24.2.53.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>2023</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>en-US - English - United States</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{5751920B-7553-3ED5-90FF-EDAD35CB0703}</RefId>
+                            <Name>ACA &amp; MEP 2023 Object Enabler</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>ACA &amp; MEP 2023 Object Enabler</Description>
+                            <Upi2>{9366CC0E-5E6D-4964-8601-2B2E29D98F98}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>8.5.46.0</BuildNumber>
+                            <ProductLine>ARCHDESK</ProductLine>
+                            <Version>2023</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{452511FF-F906-3CC5-95B0-D4EE0B9667CC}</RefId>
+                            <Name>Autodesk Save to Web and Mobile</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk Save to Web and Mobile</Description>
+                            <Upi2>{838FB31D-90EF-49BC-A8C6-3FB5D90E7BE0}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>3.0.30.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>3.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{25F609EB-AD46-3BF1-8DC5-3DB580B8B640}</RefId>
+                            <Name>Autodesk AutoCAD Performance Feedback Tool 1.3.12</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk AutoCAD Performance Feedback Tool 1.3.12</Description>
+                            <Upi2>{038567A5-6437-458B-AE68-EBBD85C317DA}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>1.3.12.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>1.3</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{D43EFAA2-9E90-387C-AA03-A76FBD5B8C4B}</RefId>
+                            <Name>Autodesk Genuine Service</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk Genuine Service</Description>
+                            <Upi2>{D1E5D29E-FC8B-4165-A92C-5B7DDE6E5EE8}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>4.5.0.119</BuildNumber>
+                            <ProductLine>AGS</ProductLine>
+                            <Version>4.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{C95015AC-E061-353C-B94D-6C95A491BAF9}</RefId>
+                            <Name>Autodesk Desktop app</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk Desktop app</Description>
+                            <Upi2>{32B05166-460C-37E5-BAA8-D0A572CE1D4E}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>8.2.0.34</BuildNumber>
+                            <ProductLine>ADSKAPP</ProductLine>
+                            <Version>1.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language></Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{F9B1480E-E5AF-32F2-AEEF-19561590B949}</RefId>
+                            <Name>Autodesk App Manager</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk App Manager</Description>
+                            <Upi2>{6DE31291-4ADC-441D-9A0A-F4E69FD46C82}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>3.3.0.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>3.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{DCB3A979-9FF5-3BDD-B023-CDB8D44BCCE1}</RefId>
+                            <Name>Autodesk Featured Apps</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk Featured Apps</Description>
+                            <Upi2>{BF8E9235-ECAC-4913-968C-C6274DCC9C79}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>3.3.0.0</BuildNumber>
+                            <ProductLine>ACD</ProductLine>
+                            <Version>3.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{D36B4C3F-B966-348D-A041-5E5E0A14E93F}</RefId>
+                            <Name>AutoCAD Open in Desktop</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>AutoCAD Open in Desktop</Description>
+                            <Upi2>{F446A855-7E45-4BF3-94BC-92F860A80CC8}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>1.0.26.0</BuildNumber>
+                            <ProductLine>ACADOID</ProductLine>
+                            <Version>1.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{19FB6D5A-5977-3604-8E25-E2D3239D2937}</RefId>
+                            <Name>Inventor Interoperability 2023</Name>
+                            <UnitType>UPD - Update</UnitType>
+                            <UpdateType>Add-On</UpdateType>
+                            <Description>Inventor Interoperability 2023</Description>
+                            <Upi2>{320D5FC7-C5A7-43B6-812A-3D40823B95CE}</Upi2>
+                            <BuildDate>01/31/2022 10:22:40 PM</BuildDate>
+                            <BuildNumber>27.0.13400.0000</BuildNumber>
+                            <ProductLine>INVSVR</ProductLine>
+                            <Version>2023</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>NA - Language Independent</Language>
+                        </assembly>
+                        <assembly>
+                            <RefId>{0220DB08-FF80-3B2F-8DC7-68C9C438C08C}</RefId>
+                            <Name>Autodesk Interoperability Engine Manager</Name>
+                            <UnitType>COM - Component</UnitType>
+                            <Description>Autodesk Interoperability Engine Manager</Description>
+                            <Upi2>{EA11E008-B335-4878-A2DA-541EA8CC864B}</Upi2>
+                            <BuildDate>01/31/2022 10:22:41 PM</BuildDate>
+                            <BuildNumber>1.0.0.11</BuildNumber>
+                            <ProductLine>HIVE</ProductLine>
+                            <Version>1.0</Version>
+                            <SubRelease>0</SubRelease>
+                            <Platform>WIN64 - Windows 64-bit</Platform>
+                            <Language>en-US - English - United States</Language>
+                        </assembly>
+                    </assemblies>
+                </assembly>
+            </assemblies>
+        </assembly>
+    </assemblies>
+</ambom>
